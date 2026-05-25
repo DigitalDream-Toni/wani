@@ -119,14 +119,14 @@ body {
 
 /* ===== STUDENT INFORMATION ===== */
 .student-info-section {
-    padding: 40px;
+    padding: 30px;
     background-color: #ffffff;
     border-bottom: 2px solid #f0f0f0;
 }
 
 .student-header {
     display: flex;
-    gap: 40px;
+    gap: 25px;
     align-items: flex-start;
     flex-wrap: wrap;
 }
@@ -154,14 +154,14 @@ body {
     flex: 1;
     display: flex;
     flex-direction: column;
-    gap: 22px;
+    gap: 12px;
     min-width: 250px;
 }
 
 .detail-row {
     display: flex;
-    gap: 40px;
-    padding: 10px 0;
+    gap: 30px;
+    padding: 6px 0;
     align-items: flex-start;
 }
 
@@ -169,7 +169,7 @@ body {
     color: #999;
     font-size: 11px;
     font-weight: 600;
-    min-width: 120px;
+    min-width: 100px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
@@ -186,7 +186,7 @@ body {
 .student-reg {
     display: flex;
     flex-direction: column;
-    gap: 22px;
+    gap: 12px;
 }
 
 /* ===== COURSES TABLE ===== */
@@ -439,15 +439,15 @@ body {
     }
     
     .student-info-section {
-        padding: 30px 25px;
+        padding: 25px;
     }
     
     .student-header {
-        gap: 30px;
+        gap: 20px;
     }
     
     .detail-row {
-        gap: 25px;
+        gap: 20px;
     }
     
     .courses-section {
@@ -554,13 +554,13 @@ body {
     }
     
     .student-details {
-        gap: 18px;
+        gap: 12px;
     }
     
     .detail-row {
         flex-direction: column;
         gap: 5px;
-        padding: 10px 0;
+        padding: 8px 0;
         border-bottom: 1px solid #f0f0f0;
     }
     
