@@ -1,5 +1,9 @@
 // Student Result System - JavaScript
 
+// Vercel Web Analytics
+import { inject } from '@vercel/analytics';
+inject();
+
 // Sample data structure for backend integration
 const studentResultData = {
     session: "2025/2026",
